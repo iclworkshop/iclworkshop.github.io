@@ -1,0 +1,11 @@
+title: ICLWorkshop @ ICML 2024
+description: An ICML 2024 Workshop.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+include: ['_pages']
+ga_id: UA-144588579-1
+
+domain: iclworkshop.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://iclworkshop.github.io  # the base hostname and protocol for your site, e.g. http://example.com
