@@ -296,6 +296,16 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
     </div>
   </div>
 
+  <div class="col-xs-6 col-lg-3 people">
+    <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en&oi=ao">
+      <img class="people-pic" src="{{ "/static/img/people/tengyu_ma.jpg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en&oi=ao">Samuel Müller</a>
+      <h6>University of Freiburg</h6>
+    </div>
+  </div>
+
 <!--  <div class="col-xs-6 col-lg-3 people">    
   </div>-->
 
