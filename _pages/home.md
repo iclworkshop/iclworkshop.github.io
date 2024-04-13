@@ -293,7 +293,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
   </div>
   </div>
   <div class="row">
-  <div class="col-xs-6 col-lg-5 people">
+  <div class="col-xs-6 col-lg-6 people">
     <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en&oi=ao">
       <img class="people-pic" src="{{ "/static/img/people/samuel_mueller.jpg" | prepend:site.baseurl }}">
     </a>
@@ -302,12 +302,12 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
       <h6>University of Freiburg</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-5 people">
-    <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en&oi=ao">
+  <div class="col-xs-6 col-lg-6 people">
+    <a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en&oi=ao">
       <img class="people-pic" src="{{ "/static/img/people/stephanie_chan.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en&oi=ao">Stephanie Chan</a>
+      <a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en&oi=ao">Stephanie Chan</a>
       <h6>Google Deep Mind</h6>
     </div>
   </div>
@@ -356,7 +356,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 </div>
 <div class="row">
 
-  <div class="col-xs-6 col-lg-5 people">
+  <div class="col-xs-6 col-lg-6 people">
     <a href="https://juliensiems.github.io">
       <img class="people-pic" src="{{ "/static/img/people/julien_siems.jpg" | prepend:site.baseurl }}">
     </a>
@@ -366,7 +366,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
     </div>
   </div>
 
-  <div class="col-xs-6 col-lg-5 people">
+  <div class="col-xs-6 col-lg-6 people">
     <a href="https://scholar.google.com/citations?hl=en&user=qGlN7KkAAAAJ">
       <img class="people-pic" src="{{ "/static/img/people/noah_hollmann.jpeg" | prepend:site.baseurl }}">
     </a>
