@@ -220,37 +220,38 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 
 <div class="row">
   <div class="col-xs-12">
-    We invite both short (4 page) and long (8 page) anonymized submissions in the <a href="https://www.overleaf.com/read/mcmwbswdxwgq#4ee6ba">ICML LaTeX format</a>. We welcome papers that develop new architectures, algorithms, theoretical analysis, empirical studies, and applications of ICL. Some specific topics of interest include, but are not limited to:
-
-    <ul>
-      <li>Architectures, training paradigms, and inductive biases that enable or improve ICL</li>
-      <li>Theoretical analysis and guarantees for ICL methods</li>
-      <li>Empirical evaluation of ICL performance on diverse benchmarks and tasks</li>
-      <li>ICL for few-shot learning, task generalization, and domain adaptation</li>
-      <li>Interpretability, controllability, and safety considerations for ICL systems</li>
-    </ul>
-    We also welcome position papers that discuss the key challenges, opportunities, and future directions of ICL.
-
-    <h3>Submission guidelines</h3>
-    <p>
-    Submissions should be uploaded on OpenReview: <a class="red" href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ICL">ICL 2024 submission link</a>
-    </p>
-
-    <p>
-    Accepted papers will be presented as posters, and a subset of them will be selected for oral presentation. We plan to organize the ToM workshop at ICML 2024 in a hybrid format. For virtual workshop attendees, we plan to use Zoom for the talks/panel and Gather for posters/socializing. To support the hybrid format, we will hold parallel meet-and-greet sessions online and in-person.
-    </p>
-
-    <p>
-    The paper template and style files can be found at here (adapted based on ICML template). The length of paper can be as short as 2 pages or as long as 8 pages (excluding references and appendix). Submissions must follow the template and style and should be properly anonymized.
-    </p>
-
-    <p>
-    Note that as per ICML guidelines, we don't accept works previously published in other conferences on machine learning, but are open to works that are currently under submission to a conference (such as NeurIPS 2024). Accepted papers will be published on the workshop homepage, but will not be part of the official proceedings and are to be considered non-archival.
-    </p>
-
-  </div>
-</div>
-
+    <div class="row" id="cfp">
+      <div class="col-xs-12">
+        <h2>Call for Papers</h2>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-xs-12">
+        <p>We invite submissions to the ICL 2024 workshop, focusing on the development of new architectures, algorithms, theoretical analysis, empirical studies, and applications of In-Context Learning (ICL). We welcome both full papers (up to 8 pages) and short papers (up to 4 pages).
+        </p>
+        <p>We encourage submissions in the following categories:</p>
+        <ul>
+          <li><strong>Research Papers:</strong> Original research contributions, including new architectures, training paradigms, inductive biases, theoretical analysis, empirical evaluation, and applications of ICL.</li>
+          <li><strong>Position Papers:</strong> Thought-provoking discussions on the key challenges, opportunities, and future directions of ICL.</li>
+        </ul>
+        <p>Specific topics of interest include, but are not limited to:</p>
+        <ul>
+          <li>Architectures, training paradigms, and inductive biases that enable or improve ICL</li>
+          <li>Theoretical analysis and guarantees for ICL methods</li>
+          <li>Empirical evaluation of ICL performance on diverse benchmarks and tasks</li>
+          <li>Interpretability, controllability, and safety considerations for ICL systems</li>
+        </ul>
+        <h3>Submission Guidelines</h3>
+        <p>
+          Submissions should be uploaded to OpenReview: <a class="red" href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ICL">ICL 2024 submission link</a>
+        </p>
+        <p>Accepted papers will be presented as posters, and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in a hybrid format at ICML 2024. Virtual attendees will use Zoom for talks/panels and Gather for posters/socializing. Parallel meet-and-greet sessions will be held online and in-person to support the hybrid format.</p>
+        <p>Paper templates and style files can be found <a href="https://www.overleaf.com/read/mcmwbswdxwgq#4ee6ba">here</a>. (adapted from the ICML template). Submissions must follow the template and style, be properly anonymized, and not exceed the page limits (excluding references and appendices).</p>
+        <h3>Dual Submission Policy</h3>
+        <p>We accept submissions that are currently under review or recently published in other venues. However, as per ICML guidelines, we do not accept works previously published in other machine learning conferences. Accepted papers will be published on the workshop homepage but will not be part of the official proceedings and should be considered non-archival.</p>
+        </div>
+      </div>
+    </div>
 
 <br />
 
