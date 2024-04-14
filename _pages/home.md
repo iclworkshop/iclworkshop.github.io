@@ -220,13 +220,6 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 
 <div class="row">
   <div class="col-xs-12">
-    <div class="row" id="cfp">
-      <div class="col-xs-12">
-        <h2>Call for Papers</h2>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-xs-12">
         <p>We invite submissions to the ICL 2024 workshop, focusing on the development of new architectures, algorithms, theoretical analysis, empirical studies, and applications of In-Context Learning (ICL). We welcome both full papers (up to 8 pages) and short papers (up to 4 pages).
         </p>
         <p>We encourage submissions in the following categories:</p>
@@ -242,16 +235,17 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
           <li>Interpretability, controllability, and safety considerations for ICL systems</li>
         </ul>
         <h3>Submission Guidelines</h3>
+        <br />
         <p>
           Submissions should be uploaded to OpenReview: <a class="red" href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ICL">ICL 2024 submission link</a>
         </p>
         <p>Accepted papers will be presented as posters, and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in a hybrid format at ICML 2024. Virtual attendees will use Zoom for talks/panels and Gather for posters/socializing. Parallel meet-and-greet sessions will be held online and in-person to support the hybrid format.</p>
         <p>Paper templates and style files can be found <a href="https://www.overleaf.com/read/mcmwbswdxwgq#4ee6ba">here</a>. (adapted from the ICML template). Submissions must follow the template and style, be properly anonymized, and not exceed the page limits (excluding references and appendices).</p>
         <h3>Dual Submission Policy</h3>
+        <br />
         <p>We accept submissions that are currently under review or recently published in other venues. However, as per ICML guidelines, we do not accept works previously published in other machine learning conferences. Accepted papers will be published on the workshop homepage but will not be part of the official proceedings and should be considered non-archival.</p>
-        </div>
-      </div>
-    </div>
+  </div>
+</div>
 
 <br />
 
