@@ -235,6 +235,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
           <li>Theoretical analysis and guarantees for ICL methods</li>
           <li>Empirical evaluation of ICL performance on diverse benchmarks and tasks</li>
           <li>Interpretability, controllability, and safety considerations for ICL systems</li>
+          <li>ICL in both, NLP and learned algorithms</li>
         </ul>
         <br />
         <h3>Submission Guidelines</h3>
