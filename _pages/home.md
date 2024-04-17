@@ -242,12 +242,12 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <p>
           Submissions should be uploaded to OpenReview: <a class="red" href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ICL">ICL 2024 submission link</a>
         </p>
-        <p>Accepted papers will be presented as posters, and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in a hybrid format at ICML 2024. Virtual attendees will use Zoom for talks/panels and Gather for posters/socializing. Parallel meet-and-greet sessions will be held online and in-person to support the hybrid format.</p>
-        <p>Paper templates and style files can be found <a href="https://www.overleaf.com/read/mcmwbswdxwgq#4ee6ba">here</a>. (adapted from the ICML template). Submissions must follow the template and style, be properly <b>anonymized (for double-blind review)</b>, and not exceed the page limits (excluding references and appendices). We will <b>not have archival proceedings</b>, but will share accepted papers on the workshop website. We encourage including code in papers, though we ask to anonymize the code along with the submission.</p>
+        <p>Accepted papers will be presented as posters, and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in a hybrid format at ICML 2024. Virtual attendees will use Zoom for talks/panels.</p>
+        <p>Paper templates and style files can be found <a href="https://www.overleaf.com/read/mcmwbswdxwgq#4ee6ba">here</a>. (adapted from the ICML template). Submissions must follow the template and style, be properly <b>anonymized (for double-blind review)</b>, and not exceed the page limits (excluding references and appendices). We will <b>have non-archival proceedings</b>, but will share accepted papers on OpenReview. We encourage including code in papers, though we ask to anonymize the code along with the submission.</p>
         <br />
         <h3>Dual Submission Policy</h3>
         <br />
-        <p>We accept submissions that are currently under review or recently published in other venues. However, as per ICML guidelines, we do not accept works previously published in other machine learning conferences. Accepted papers will be published on the workshop homepage but will not be part of the official proceedings and should be considered non-archival.</p>
+        <p>We accept submissions that are currently under review or recently published in other venues. However, as per ICML guidelines, we do not accept works accepted for publication in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 can thus not be concurrently submitted at the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
   </div>
 </div>
 
