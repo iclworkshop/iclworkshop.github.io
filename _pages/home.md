@@ -249,6 +249,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <h3>Dual Submission Policy</h3>
         <br />
         <p>We accept submissions that are currently under review or recently published in other venues. However, as per ICML guidelines, we do not accept works accepted for publication in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 can thus not be concurrently submitted at the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
+        <p>We are also looking for reviewers - if you are interested in reviewing papers for the workshop, please email <a href="mailto:iclworkshop@googlegroups.com">iclworkshop@googlegroups.com</a></p>
   </div>
 </div>
 
