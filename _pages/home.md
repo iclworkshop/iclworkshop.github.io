@@ -202,7 +202,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         </tr>
         <tr>
           <td>Workshop</td>
-          <td>26. or 27. 07.2024</td>
+          <td>27. 07.2024</td>
         </tr>
       </tbody>
     </table>
@@ -359,7 +359,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 </div>
 <div class="row">
 
-  <div class="col-xs-6 col-lg-6 people">
+  <div class="col-xs-6 col-lg-4 people">
     <a href="https://juliensiems.github.io">
       <img class="people-pic" src="{{ "/static/img/people/julien_siems.jpg" | prepend:site.baseurl }}">
     </a>
@@ -369,13 +369,22 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
     </div>
   </div>
 
-  <div class="col-xs-6 col-lg-6 people">
+  <div class="col-xs-6 col-lg-4 people">
     <a href="https://scholar.google.com/citations?hl=en&user=qGlN7KkAAAAJ">
       <img class="people-pic" src="{{ "/static/img/people/noah_hollmann.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
       <a href="https://scholar.google.com/citations?hl=en&user=qGlN7KkAAAAJ">Noah Hollmann</a>
       <h6>University of Freiburg & Charité Berlin</h6>
+    </div>
+  </div>
+  <div class="col-xs-6 col-lg-4 people">
+    <a href="https://lmb.informatik.uni-freiburg.de/people/bratulic/">
+      <img class="people-pic" src="{{ "/static/img/people/noah_hollmann.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://lmb.informatik.uni-freiburg.de/people/bratulic/">Jelena Bratulić</a>
+      <h6>University of Freiburg</h6>
     </div>
   </div>
 </div>
