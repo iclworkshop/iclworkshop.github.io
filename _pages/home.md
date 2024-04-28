@@ -234,7 +234,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
           <li>Interpretability, controllability, and safety considerations for ICL systems</li>
           <li>ICL in both, NLP and learned algorithms</li>
         </ul>
-        <p>Accepted papers will be presented as posters, and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in a hybrid format at ICML 2024. Virtual attendees will use Zoom for talks/panels.</p>
+        <p>Accepted papers will be presented as posters and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in a hybrid format at ICML 2024. Virtual attendees will use Zoom for talks/panels.</p>
         <br />
         <h3>Submission Guidelines</h3>
         <br />
