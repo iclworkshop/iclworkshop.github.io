@@ -212,7 +212,6 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 </div>
 
 <br />
-<br/>
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
@@ -251,7 +250,6 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 </div>
 
 <br />
-<br/>
 
 <hr />
 
