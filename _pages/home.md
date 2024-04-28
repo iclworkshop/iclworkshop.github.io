@@ -224,11 +224,6 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
   <div class="col-xs-12">
         <p>We invite submissions to the ICL 2024 workshop, focusing on the development of new architectures, algorithms, theoretical analysis, empirical studies, and applications of In-Context Learning (ICL). We welcome both full papers (up to 8 pages) and short papers (up to 4 pages).
         </p>
-        <p>We encourage submissions in the following categories:</p>
-        <ul>
-          <li><strong>Research Papers:</strong> Original research contributions, including new architectures, training paradigms, inductive biases, theoretical analysis, empirical evaluation, and applications of ICL.</li>
-          <li><strong>Position Papers:</strong> Thought-provoking discussions on the key challenges, opportunities, and future directions of ICL.</li>
-        </ul>
         <p>Specific topics of interest include, but are not limited to:</p>
         <ul>
           <li>Architectures, training paradigms, and inductive biases that enable or improve ICL</li>
@@ -249,6 +244,9 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <h3>Dual Submission Policy</h3>
         <br />
         <p>We accept submissions that are currently under review or recently published in other venues. However, as per ICML guidelines, we do not accept works accepted for publication in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 can thus not be concurrently submitted at the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
+         <br />
+        <h3>Call for Reviewers</h3>
+        <br />
         <p>If you are interested in reviewing papers for the workshop, we invite you to nominate yourself and/or others to serve on the program committee. Please fill out <a href="https://forms.gle/j8jSDxMEVmTHKqfr5">this form</a></p>
   </div>
 </div>
