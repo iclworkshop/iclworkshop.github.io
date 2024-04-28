@@ -56,6 +56,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
   </div>
 </div>
 
+<!--
 <div class="row">
   <div class="col-xs-12">
     <table class="table table-striped">
@@ -167,6 +168,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
     </table>
   </div>
 </div>
+-->
 
 
 <div class="row" id="dates">
