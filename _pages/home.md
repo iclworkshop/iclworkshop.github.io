@@ -232,13 +232,13 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
           <li>Interpretability, controllability, and safety considerations for ICL systems</li>
           <li>ICL in both, NLP and learned algorithms</li>
         </ul>
+        <p>Accepted papers will be presented as posters, and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in a hybrid format at ICML 2024. Virtual attendees will use Zoom for talks/panels.</p>
         <br />
         <h3>Submission Guidelines</h3>
         <br />
         <p>
           Submissions should be uploaded to OpenReview: <a class="red" href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ICL">ICL 2024 submission link</a>
         </p>
-        <p>Accepted papers will be presented as posters, and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in a hybrid format at ICML 2024. Virtual attendees will use Zoom for talks/panels.</p>
         <p>Paper templates and style files can be found <a href="https://www.overleaf.com/read/mcmwbswdxwgq#4ee6ba">here</a>. (adapted from the ICML template). Submissions must follow the template and style, be properly <b>anonymized (for double-blind review)</b>, and not exceed the page limits (excluding references and appendices). We will <b>have non-archival proceedings</b>, but will share accepted papers on OpenReview. We encourage including code in papers, though we ask to anonymize the code along with the submission.</p>
         <br />
         <h3>Dual Submission Policy</h3>
