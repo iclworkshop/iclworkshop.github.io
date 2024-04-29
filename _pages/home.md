@@ -215,7 +215,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
-    <h2>Call for Papers</h2>
+    <h2>Call for Papers (provisional)</h2>
     <br />
   </div>
 </div>
@@ -232,7 +232,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
           <li>Empirical evaluation of ICL performance on diverse benchmarks and tasks</li>
           <li>Interpretability, controllability, and safety considerations for ICL systems</li>
           <li>ICL in both, NLP and learned algorithms</li>
-        </ul>
+        </ul>^
         <p>Accepted papers will be presented as posters and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in a hybrid format at ICML 2024. Virtual attendees will use Zoom for talks/panels.</p>
         <h3>Submission Guidelines</h3>
         <br />
@@ -255,7 +255,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 
 <div class="row" id="speakers">
   <div class="col-xs-12">
-    <h2>Speakers</h2>
+    <h2>Speakers (currently all provisional)</h2>
     <br />
   </div>
 </div>
