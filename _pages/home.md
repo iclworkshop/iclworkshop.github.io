@@ -216,7 +216,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 
 <div class="row">
   <div class="col-xs-12">
-        <p>We invite submissions to the ICL 2024 workshop, focusing on the development of new architectures, algorithms, theoretical analysis, empirical studies, and applications of In-Context Learning (ICL). We welcome both full papers (up to 8 pages) and short papers (up to 4 pages).
+        <p>We invite submissions to the ICL 2024 workshop, focusing on the development of new architectures, algorithms, theoretical analysis, empirical studies, and applications of In-Context Learning (ICL). Submissions must present original research that has not been previously published. Submitted manuscripts should be composed of a main body, which can be up to <b>four pages</b> long, followed by an unlimited number of pages for references and appendices, all in a single file.
         </p>
         <p>Specific topics of interest include, but are not limited to:</p>
         <ul>
