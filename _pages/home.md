@@ -1,13 +1,14 @@
 ---
-layout: project
-urltitle:  "1st ICML Workshop on In-Context Learning (ICL @ ICML 2024)"
+layout: default
+urltitle: "1st ICML Workshop on In-Context Learning (ICL @ ICML 2024)"
 title: "1st ICML Workshop on In-Context Learning (ICL @ ICML 2024)"
-categories: workshop, icml, icl, in-context learning, 2024
+categories: workshop, icml, in-context learning, 2024
 permalink: /
 bibtex: true
 paper: true
 acknowledgements: ""
 ---
+
 <br/>
 <div class="row reverse">
   <div class="col-xs-12 col-md-7">
@@ -17,7 +18,7 @@ acknowledgements: ""
 In-context learning (ICL) is an emerging capability of large-scale models, including large language models (LLMs) like GPT-3, to acquire new capabilities directly from the context of an input example without separate training or fine-tuning, enabling these models to adapt rapidly to new tasks, datasets, and domains. This workshop brings together diverse perspectives on this new paradigm to assess progress, synthesize best practices, and chart open problems. Core topics will include architectural and other inductive biases enabling in-context skill acquisition, and reliable evaluation of ICL in application domains including reinforcement learning, representation learning, and safe and reliable machine learning.
     </p>
     <p>
-      In case of any issues or questions, feel free to email us at <a href="mailto:iclworkshop@googlegroups.com" class="red">iclworkshop@googlegroups.com</a>.
+      In case of any issues or questions, feel free to email the organizers at <a href="mailto:iclworkshop@googlegroups.com" class="red">iclworkshop@googlegroups.com</a>.
     </p>
   </div>
   <div class="col-md-1 hidden-xs">
@@ -41,7 +42,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
   <div class="col-xs-12">
     <h2>Official schedule</h2>
     <br/>
-    <p> All times listed below are in Central European Summer Time (CEST).  </p> 
+    <p> All times listed below are in Central European Summer Time (CEST).  </p>
     <p>Other important links:</p>
      <ul>
               <li><b>GatherTown</b>: <a href="https:/icml.cc">Link</a></li>
@@ -84,7 +85,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <tr>
           <td>10:00 - 11:00 AM</td>
           <td>
-            Poster Session 
+            Poster Session
           </td>
         </tr>
         <tr>
@@ -163,7 +164,6 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 </div>
 -->
 
-
 <div class="row" id="dates">
   <div class="col-xs-12">
     <h2>Important Dates</h2>
@@ -176,28 +176,31 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>Paper Submission Deadline</td> <!-- Neurips Main Conference Full Paper Submission Deadline	May 22 '24 08:00 PM UTC            -->
-          <td>23.05.2024 AOE</td>
+          <!-- Neurips Main Conference Full Paper Submission Deadline	May 22 '24 08:00 PM UTC            -->
+          <td><b>Submission Deadline</b></td>
+          <td>Friday, May 24th, 2024, Anywhere on Earth (AoE)</td>
         </tr>
         <tr>
-          <td>Decision Notifications</td>
-          <td>17.06.2024</td>
+          <td><b>Decision Notification</b></td>
+          <td>Monday, June 17th, 2024</td>
         </tr>
         <tr>
 <!--          <td>Deadline for complimentary registration applications</td>
           <td>10.03.2024</td>-->
         </tr>
         <tr>
-          <td>Camera Ready Paper Deadline </td> <!--         & complimentary registration notifications -->
-          <td>1.07.2024</td>
+          <td><b>Camera-ready Deadline</b></td> <!--         & complimentary registration notifications -->
+          <td>Sunday, July 21st, 2024, Anywhere on Earth (AoE)</td>
         </tr>
+        <!-- Need to determine if ICML supports videos for workshops.
         <tr>
           <td>Paper Video Submission Deadline</td>
           <td>8.07.2024</td>
         </tr>
+        -->
         <tr>
-          <td>Workshop</td>
-          <td>27.07.2024</td>
+          <td><b>Workshop Date</b></td>
+          <td>Saturday, July 27th, 2024</td>
         </tr>
       </tbody>
     </table>
@@ -213,32 +216,45 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
   </div>
 </div>
 
-
 <div class="row">
   <div class="col-xs-12">
-        <p>We invite submissions to the ICL 2024 workshop, focusing on the development of new architectures, algorithms, theoretical analysis, empirical studies, and applications of In-Context Learning (ICL). Submissions must present original research that has not been previously published. Submitted manuscripts should be composed of a main body, which can be up to <b>four pages</b> long, followed by an unlimited number of pages for references and appendices, all in a single file.
+        <p>
+            We invite submissions to the ICL 2024 workshop, focusing on the development of new architectures, algorithms, theoretical analysis, empirical studies, and applications of In-Context Learning (ICL). Submissions must present original research that has not been previously published. 
         </p>
         <p>Specific topics of interest include, but are not limited to:</p>
         <ul>
-          <li>Architectures, training paradigms, and inductive biases that enable or improve ICL</li>
-          <li>Theoretical analysis and guarantees for ICL methods</li>
-          <li>Empirical evaluation of ICL performance on diverse benchmarks and tasks</li>
-          <li>Interpretability, controllability, and safety considerations for ICL systems</li>
-          <li>ICL in both, NLP and learned algorithms</li>
+<li>architectures, training paradigms, and inductive biases that enable or improve ICL;</li>
+<li>theoretical analyses and guarantees for ICL methods;</li>
+<li>empirical evaluation of the performance of ICL on interpretability, controllability, and safety considerations for ICL systems;</li>
+<li>similarities and differences between ICL in large-scale language modeling systems and learned algorithms in other domains;</li>
+<li>the relationship between ICL and few-shot learning, meta-learning and automated machine learning (AutoML).</li>
         </ul>
-        <p>Accepted papers will be presented as posters and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in a hybrid format at ICML 2024. Virtual attendees will use Zoom for talks/panels.</p>
+        <p>Accepted papers will be presented as posters and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in person at ICML 2024 with virtual participation options to be determined.
+</p>
         <h3>Submission Guidelines</h3>
         <br />
         <p>
-          Submissions should be uploaded to OpenReview: <a class="red" href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ICL">ICL 2024 submission link</a>
+        We welcome both <b>long</b> (up to 8 pages) and <b>short</b> papers (up to 4 pages); the track can be selected during submission.
+        Submitted manuscripts should be composed of a page-limited main body followed by an unlimited number of pages for references and appendices, all in a single file.
+          Submissions should be uploaded via the <a class="red" href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ICL">ICML 2024 Workshop ICL Submission</a> portal on OpenReview.
         </p>
-        <p>Paper templates and style files can be found <a href="https://www.overleaf.com/read/mcmwbswdxwgq#4ee6ba">here</a>. (adapted from the ICML template). Submissions must follow the template and style, be properly <b>anonymized (for double-blind review)</b>, and not exceed the page limits (excluding references and appendices). We will <b>have non-archival proceedings</b>, but will share accepted papers on OpenReview. We encourage including code in papers, though we ask to anonymize the code along with the submission.</p>
+        <p>Paper templates and style files (adapted from the ICML template) can be found in <a class="red" href="https://www.overleaf.com/read/mcmwbswdxwgq#4ee6ba">this Overleaf template</a>. Submissions must follow the template and style, be properly <b>anonymized (for double-blind review)</b>, and not exceed the page limits for the specified track (excluding references and appendices). We will <b>have non-archival proceedings</b>, but will share accepted papers and their reviews on OpenReview. We encourage including code in papers, though we ask to anonymize the code along with the submission.</p>
         <h3>Dual Submission Policy</h3>
         <br />
-        <p>We accept submissions that are currently under review or recently published in other venues. However, as per ICML guidelines, we do not accept works accepted for publication in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 can thus not be concurrently submitted at the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
+        <p>We accept submissions that are currently under review or recently published in other venues. However, as per ICML guidelines, we do not accept works accepted for publication in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 can thus <b>not</b> be concurrently submitted at the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
+        <h3>Author-Reviewer Policy</h3>
+        <br />
+        <p>
+The workshop program committee plays an important role in identifying and giving feedback on up-and-coming work that would most benefit from discussion and visibility at the workshop.
+To sustain our review and program selection processes, we require <b>at least one author of each submitted paper to participate as a reviewer</b> for the ICL 2024 workshop (identified in the OpenReview submission form).
+</p>
+        <p>
+We will ask each reviewer to evaluate 1–2 submissions starting the week of Monday, May 27th. All reviews will be due no later than Friday, June 7th, anywhere on earth, to enable us to notify authors on time. Our active review period is thus between <b>May 27th and June 7th</b>.
+</p>
         <h3>Call for Reviewers</h3>
         <br />
-        <p>If you are interested in reviewing papers for the workshop, we invite you to nominate yourself and/or others to serve on the program committee. Please fill out <a href="https://forms.gle/j8jSDxMEVmTHKqfr5">this form</a></p>
+        <p>If you are interested in reviewing papers for the workshop outside of the author-reviewer requirements, we invite you to nominate yourself and/or others to serve on the program committee by filling out the <a class="red" href="https://forms.gle/j8jSDxMEVmTHKqfr5">reviewer nomination form
+</a>.</p>
   </div>
 </div>
 
@@ -259,7 +275,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
     </a>
     <div class="people-name">
       <a href="https://ekinakyurek.github.io">Ekin Akyürek</a>
-      <h6>MIT</h6>
+      <h6>Massachusetts Institute of Technology</h6>
     </div>
   </div>  
   <div class="col-xs-6 col-lg-4 people">
@@ -298,7 +314,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
     </a>
     <div class="people-name">
       <a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en&oi=ao">Stephanie Chan</a>
-      <h6>Google Deep Mind</h6>
+      <h6>Google DeepMind</h6>
     </div>
   </div>
   <div class="col-xs-6 col-lg-4 people">
@@ -310,8 +326,6 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
       <h6>Google Research</h6>
     </div>
   </div>
-
-
 
 </div>
 <br/>
@@ -341,7 +355,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
     </a>
     <div class="people-name">
       <a href="https://eringrant.github.io">Erin Grant</a>
-      <h6>Sainsbury Wellcome Centre & Gatsby Computational Neuroscience Unit at University College London (UCL)</h6>
+      <h6>University College London</h6>
     </div>
   </div>
 
@@ -385,10 +399,12 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
       <h6>University of Freiburg</h6>
     </div>
   </div>
+<br/>
 </div>
   
+<!--
 <br/>
-<br/>
+<hr />
 <div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted papers</h2>
@@ -398,16 +414,16 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 <div class="row">
 <div class="col-md-12">
     <br/>
-    <p> Camera-ready versions of all the papers will be available on <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ICL"> OpenReview </a> </p>
+    <p>
+         Camera-ready versions of accepted papers will be available on <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ICL"> OpenReview </a> after the review process has concluded.</p>
     </div>
   <div class="col-md-12">
     <ol>
 
-
 </ol>
   </div>
 </div>
-
+-->
 
 <!--
 <div class="row">
@@ -424,6 +440,13 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 </div>
 --->
 
+<br/>
+<br/>
+<hr />
 <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
-    <h6>Website theme originally inspired from the <a href="https://github.com/vigilworkshop/vigilworkshop.github.io">VIGIL workshop</a>, stolen from the <a href="https://github.com/sslrlworkshop/sslrlworkshop.github.io">SSL-RL workshop</a>. </h6>
-  </div>
+    <h6>
+        Website theme adapted from the <a href="https://github.com/sslrlworkshop/sslrlworkshop.github.io">SSL-RL workshop</a>
+        which was adapted from the <a href="https://github.com/vigilworkshop/vigilworkshop.github.io">VIGIL workshop</a>.
+    </h6>
+    <br>
+</div>
