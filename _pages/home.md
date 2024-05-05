@@ -279,12 +279,33 @@ We will ask each reviewer to evaluate 1–2 submissions starting the week of Mon
     </div>
   </div>  
   <div class="col-xs-6 col-lg-4 people">
-    <a href="https://scholar.google.com/citations?user=9uWgjIUAAAAJ&hl=en">
-      <img class="people-pic" src="{{ "/static/img/people/yingcong_li.jpg" | prepend:site.baseurl }}">
+    <a href="https://scholar.google.com/citations?user=L79ecZkAAAAJ&hl=en&oi=sra">
+      <img class="people-pic" src="{{ "/static/img/people/mehran_kazemi.jpeg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://scholar.google.com/citations?user=9uWgjIUAAAAJ&hl=en">Yingcong Li</a>
-      <h6>University of Michigan, Ann Arbor</h6>
+      <a href="https://scholar.google.com/citations?user=L79ecZkAAAAJ&hl=en&oi=sra">Mehran Kazemi</a>
+      <h6>Google Research</h6>
+    </div>
+  </div>
+
+  <div class="col-xs-6 col-lg-4 people">
+    <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en&oi=ao">
+      <img class="people-pic" src="{{ "/static/img/people/samuel_mueller.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en&oi=ao">Samuel Müller</a>
+      <h6>University of Freiburg</h6>
+    </div>
+  </div>
+  </div>
+  <div class="row">
+  <div class="col-xs-6 col-lg-4 people">
+    <a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en&oi=ao">
+      <img class="people-pic" src="{{ "/static/img/people/stephanie_chan.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en&oi=ao">Stephanie Chan</a>
+      <h6>Google DeepMind</h6>
     </div>
   </div>
   
@@ -297,36 +318,15 @@ We will ask each reviewer to evaluate 1–2 submissions starting the week of Mon
       <h6>Stanford University</h6>
     </div>
   </div>
-  </div>
-  <div class="row">
   <div class="col-xs-6 col-lg-4 people">
-    <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en&oi=ao">
-      <img class="people-pic" src="{{ "/static/img/people/samuel_mueller.jpeg" | prepend:site.baseurl }}">
+    <a href="https://scholar.google.com/citations?user=9uWgjIUAAAAJ&hl=en">
+      <img class="people-pic" src="{{ "/static/img/people/yingcong_li.jpg" | prepend:site.baseurl }}">
     </a>
     <div class="people-name">
-      <a href="https://scholar.google.com/citations?user=pevYEjAAAAAJ&hl=en&oi=ao">Samuel Müller</a>
-      <h6>University of Freiburg</h6>
+      <a href="https://scholar.google.com/citations?user=9uWgjIUAAAAJ&hl=en">Yingcong Li</a>
+      <h6>University of Michigan, Ann Arbor</h6>
     </div>
   </div>
-  <div class="col-xs-6 col-lg-4 people">
-    <a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en&oi=ao">
-      <img class="people-pic" src="{{ "/static/img/people/stephanie_chan.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://scholar.google.com/citations?user=bXOt49QAAAAJ&hl=en&oi=ao">Stephanie Chan</a>
-      <h6>Google DeepMind</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-4 people">
-    <a href="https://scholar.google.com/citations?user=L79ecZkAAAAJ&hl=en&oi=sra">
-      <img class="people-pic" src="{{ "/static/img/people/mehran_kazemi.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://scholar.google.com/citations?user=L79ecZkAAAAJ&hl=en&oi=sra">Mehran Kazemi</a>
-      <h6>Google Research</h6>
-    </div>
-  </div>
-
 </div>
 <br/>
 <br/>
@@ -372,6 +372,17 @@ We will ask each reviewer to evaluate 1–2 submissions starting the week of Mon
 <div class="row">
 
   <div class="col-xs-6 col-lg-4 people">
+    <a href="https://lmb.informatik.uni-freiburg.de/people/bratulic/">
+      <img class="people-pic" src="{{ "/static/img/people/jelena_bratulic.jpeg" | prepend:site.baseurl }}">
+    </a>
+    <div class="people-name">
+      <a href="https://lmb.informatik.uni-freiburg.de/people/bratulic/">Jelena Bratulić</a>
+      <h6>University of Freiburg</h6>
+    </div>
+  </div>
+
+
+  <div class="col-xs-6 col-lg-4 people">
     <a href="https://juliensiems.github.io">
       <img class="people-pic" src="{{ "/static/img/people/julien_siems.jpg" | prepend:site.baseurl }}">
     </a>
@@ -380,7 +391,6 @@ We will ask each reviewer to evaluate 1–2 submissions starting the week of Mon
       <h6>University of Freiburg</h6>
     </div>
   </div>
-
   <div class="col-xs-6 col-lg-4 people">
     <a href="https://scholar.google.com/citations?hl=en&user=qGlN7KkAAAAJ">
       <img class="people-pic" src="{{ "/static/img/people/noah_hollmann.jpeg" | prepend:site.baseurl }}">
@@ -388,15 +398,6 @@ We will ask each reviewer to evaluate 1–2 submissions starting the week of Mon
     <div class="people-name">
       <a href="https://scholar.google.com/citations?hl=en&user=qGlN7KkAAAAJ">Noah Hollmann</a>
       <h6>University of Freiburg & Charité Berlin</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-4 people">
-    <a href="https://lmb.informatik.uni-freiburg.de/people/bratulic/">
-      <img class="people-pic" src="{{ "/static/img/people/jelena_bratulic.jpeg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://lmb.informatik.uni-freiburg.de/people/bratulic/">Jelena Bratulić</a>
-      <h6>University of Freiburg</h6>
     </div>
   </div>
 <br/>
