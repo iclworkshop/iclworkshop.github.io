@@ -241,7 +241,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <p>Paper templates and style files (adapted from the ICML template) can be found in <a class="red" href="https://www.overleaf.com/read/mcmwbswdxwgq#4ee6ba">this Overleaf template</a>. Submissions must follow the template and style, be properly <b>anonymized (for double-blind review)</b>, and not exceed the page limits for the specified track (excluding references and appendices). We will <b>have non-archival proceedings</b>, but will share accepted papers and their reviews on OpenReview. We encourage including code in papers, though we ask to anonymize the code along with the submission.</p>
         <h3>Dual Submission Policy</h3>
         <br />
-        <p>We accept submissions that are currently under review or recently published in other venues. However, as per ICML guidelines, we do not accept works accepted for publication in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 can thus <b>not</b> be concurrently submitted at the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
+        <p>We aim to host work-in-preparation that would most benefit from feedback, which informs our dual submission policy.  We accept submissions that are <b>currently under review</b> for publication in other venues. However, as per ICML guidelines, we do not accept works <b>accepted for publication</b> in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 or KDD 2024 can thus <b>not</b> be submitted to the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
         <h3>Author-Reviewer Policy</h3>
         <br />
         <p>
