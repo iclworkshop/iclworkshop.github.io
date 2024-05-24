@@ -178,7 +178,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <tr>
           <!-- Neurips Main Conference Full Paper Submission Deadline	May 22 '24 08:00 PM UTC            -->
           <td><b>Submission Deadline</b></td>
-          <td>Friday, May 27th, 2024, Anywhere on Earth (AoE)</td>
+          <td>Monday, May 27th, 2024, Anywhere on Earth (AoE)</td>
         </tr>
         <tr>
           <td><b>Decision Notification</b></td>
