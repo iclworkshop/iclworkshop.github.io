@@ -242,14 +242,15 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <h3>Dual Submission Policy</h3>
         <br />
         <p>We aim to host work-in-preparation that would most benefit from feedback, which informs our dual submission policy.  We accept submissions that are <b>currently under review</b> for publication in other venues. However, as per ICML guidelines, we do not accept works <b>accepted for publication</b> in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 or KDD 2024 can thus <b>not</b> be submitted to the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
+        <h3>Review Process</h3>
+        <p>
+We will ask each reviewer to evaluate 1–2 submissions starting the week of Tuesday, May 28th. All reviews will be due no later than Friday, June 7th, anywhere on earth, to enable us to notify authors on time. Our active review period is thus between <b>May 28th and June 7th</b>.
+</p>
         <h3>Author-Reviewer Policy</h3>
         <br />
         <p>
 The workshop program committee plays an important role in identifying and giving feedback on up-and-coming work that would most benefit from discussion and visibility at the workshop.
-To sustain our review and program selection processes, we require <b>at least one author of each submitted paper to participate as a reviewer</b> for the ICL 2024 workshop (identified in the OpenReview submission form).
-</p>
-        <p>
-We will ask each reviewer to evaluate 1–2 submissions starting the week of Monday, May 27th. All reviews will be due no later than Friday, June 7th, anywhere on earth, to enable us to notify authors on time. Our active review period is thus between <b>May 27th and June 7th</b>.
+To sustain our review and program selection processes, we require <b>at least one author of each submitted paper to volunteer to participate as a reviewer (and to accept if selected by the Organizers)</b> for the ICL 2024 workshop (identified in the OpenReview submission form).
 </p>
         <h3>Call for Reviewers</h3>
         <br />
