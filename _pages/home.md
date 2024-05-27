@@ -243,6 +243,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <br />
         <p>We aim to host work-in-preparation that would most benefit from feedback, which informs our dual submission policy.  We accept submissions that are <b>currently under review</b> for publication in other venues. However, as per ICML guidelines, we do not accept works <b>accepted for publication</b> in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 or KDD 2024 can thus <b>not</b> be submitted to the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
         <h3>Review Process</h3>
+        <br />
         <p>
 We will ask each reviewer to evaluate 1–2 submissions starting the week of Tuesday, May 28th. All reviews will be due no later than Friday, June 7th, anywhere on earth, to enable us to notify authors on time. Our active review period is thus between <b>May 28th and June 7th</b>.
 </p>
