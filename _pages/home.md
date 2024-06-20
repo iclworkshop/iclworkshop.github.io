@@ -15,10 +15,10 @@ acknowledgements: ""
     <h1>1st ICML Workshop on In-Context Learning (ICL @ ICML 2024)</h1>
     <br>
 <p>
-In-context learning (ICL) is an emerging capability of large-scale models, including large language models (LLMs) like GPT-3, to acquire new capabilities directly from the context of an input example without separate training or fine-tuning, enabling these models to adapt rapidly to new tasks, datasets, and domains. This workshop brings together diverse perspectives on this new paradigm to assess progress, synthesize best practices, and chart open problems. Core topics will include architectural and other inductive biases enabling in-context skill acquisition, and reliable evaluation of ICL in application domains including reinforcement learning, representation learning, and safe and reliable machine learning.
+In-context learning (ICL) is an emerging capability of large-scale models, including large language models (LLMs) like GPT-3, to acquire new capabilities directly from the context of an input example without separate training or fine-tuning, enabling these models to adapt rapidly to new tasks, datasets, and domains. This workshop brings together diverse perspectives on this new paradigm to assess progress, synthesize best practices, and chart open problems. Core topics will include architectural and other inductive biases enabling in-context skill acquisition, and reliable evaluation of ICL in application domains including reinforcement learning, representation learning, and safe and reliable machine learning. The workshop will take place on Saturday, July 27th, 2024 at Room Lehar 4, Messe Wien Exhibition Congress Center, Vienna.
     </p>
     <p>
-      We are currently working to resolve an issue with OpenReview, where only decision notifications but not reviews are not visible to paper authors yet. We are working to resolve this as soon as possible! In case of any issues or questions, feel free to email the organizers at <a href="mailto:iclworkshop@googlegroups.com" class="red">iclworkshop@googlegroups.com</a>.
+      In case of any issues or questions, feel free to email the organizers at <a href="mailto:iclworkshop@googlegroups.com" class="red">iclworkshop@googlegroups.com</a>.
     </p>
   </div>
   <div class="col-md-1 hidden-xs">
@@ -200,7 +200,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         -->
         <tr>
           <td><b>Workshop Date</b></td>
-          <td>Saturday, July 27th, 2024</td>
+          <td>Saturday, July 27th, 2024 @ Lehar 4, Messe Wien Exhibition Congress Center, Vienna</td>
         </tr>
       </tbody>
     </table>
@@ -208,6 +208,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 </div>
 
 <br />
+<hr />
 
 <div class="row" id="cfp">
   <div class="col-xs-12">
@@ -231,6 +232,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         </ul>
         <p>Accepted papers will be presented as posters and a subset will be selected for oral presentation. The ICL 2024 workshop will be held in person at ICML 2024 with virtual participation options to be determined.
 </p>
+
         <h3>Submission Guidelines</h3>
         <br />
         <p>
@@ -242,6 +244,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <h3>Dual Submission Policy</h3>
         <br />
         <p>We aim to host work-in-preparation that would most benefit from feedback, which informs our dual submission policy.  We accept submissions that are <b>currently under review</b> for publication in other venues. However, as per ICML guidelines, we do not accept works <b>accepted for publication</b> in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 or KDD 2024 can thus <b>not</b> be submitted to the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
+<!--
         <h3>Review Process</h3>
         <br />
         <p>
@@ -257,11 +260,11 @@ To sustain our review and program selection processes, we require <b>at least on
         <br />
         <p>If you are interested in reviewing papers for the workshop outside of the author-reviewer requirements, we invite you to nominate yourself and/or others to serve on the program committee by filling out the <a class="red" href="https://forms.gle/j8jSDxMEVmTHKqfr5">reviewer nomination form
 </a>.</p>
+-->
   </div>
 </div>
 
 <br />
-
 <hr />
 
 <div class="row" id="speakers">
@@ -333,7 +336,6 @@ To sustain our review and program selection processes, we require <b>at least on
 <br/>
 <br/>
 <hr />
-
 <div class="row" id="organizers">
   <div class="col-xs-12">
     <h2>Organizers</h2>
@@ -404,48 +406,32 @@ To sustain our review and program selection processes, we require <b>at least on
   </div>
 <br/>
 </div>
-  
-<!--
+  <br/>
 <br/>
 <hr />
-<div class="row" id="accepted">
+
+<div class="row" id="sponsors">
   <div class="col-xs-12">
-    <h2>Accepted papers</h2>
+    <h2>Sponsors</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
     <br />
+    We thank <a href="https://www.quantco.com/">QuantCo</a> for their generous support for this workshop!
+    <div class="col-xs-6 col-lg-12 people">
+    <a href="https://www.quantco.com/">
+      <img class="people-pic" src="{{ "/static/img/quantco.jpeg" | prepend:site.baseurl }}">
+    </a>
+  </div>
+
   </div>
 </div>
-<div class="row">
-<div class="col-md-12">
-    <br/>
-    <p>
-         Camera-ready versions of accepted papers will be available on <a href="https://openreview.net/group?id=ICML.cc/2024/Workshop/ICL"> OpenReview </a> after the review process has concluded.</p>
-    </div>
-  <div class="col-md-12">
-    <ol>
-
-</ol>
-  </div>
-</div>
--->
-
-<!--
-<div class="row">
-  <div class="col-xs-12">
-    <h2>References</h2>
-  </div>
-</div>
-<div class="row">
-  <div class="col-md-12">
-    <ol>
-
-</ol>
-  </div>
-</div>
---->
-
 <br/>
 <br/>
 <hr />
+
+
 <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
     <h6>
         Website theme adapted from the <a href="https://github.com/sslrlworkshop/sslrlworkshop.github.io">SSL-RL workshop</a>

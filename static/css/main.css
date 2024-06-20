@@ -266,3 +266,27 @@ pre {
   text-align: center;
   font-weight: 500;
 }
+
+.papers {
+            list-style-type: none;
+            padding: 0;
+        }
+        .paper {
+            background: #fff;
+            margin: 10px 0;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .paper a {
+            text-decoration: none;
+            color: #007BFF;
+            font-weight: bold;
+        }
+        .paper a:hover {
+            text-decoration: underline;
+        }
+        .authors {
+            color: #555;
+            font-style: italic;
+        }
