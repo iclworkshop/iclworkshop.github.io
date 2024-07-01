@@ -424,13 +424,218 @@ To sustain our review and program selection processes, we require <b>at least on
       <img class="people-pic" src="{{ "/static/img/quantco.jpeg" | prepend:site.baseurl }}">
     </a>
   </div>
-
-  </div>
 </div>
 <br/>
 <br/>
 <hr />
 
+<div class="row" id=“accepted”>
+  <div class="col-xs-12">
+    <h2>Accepted Papers</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+        <ul class="papers">
+
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=zGyPLns0v7">Improve Temporal Awareness of LLMs for Domain-general Sequential Recommendation</a>
+                <p>Authors: Zhendong Chu,  Zichao Wang,  Ruiyi Zhang,  Yangfeng Ji,  Hongning Wang,  Tong Sun</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=yV6acl90Fq">In-Context Principle Learning from Mistakes</a>
+                <p>Authors: Tianjun Zhang,  Aman Madaan,  Luyu Gao,  Steven Zhang,  Swaroop Mishra,  Yiming Yang,  Niket Tandon,  Uri Alon</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=y0PQVjMbRf">In-Context Symmetries: Self-Supervised Learning through Contextual World Models</a>
+                <p>Authors: Sharut Gupta,  Chenyu Wang,  Yifei Wang,  Tommi S. Jaakkola,  Stefanie Jegelka</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=xTfvKvVmAM">Localized Zeroth-Order Prompt Optimization</a>
+                <p>Authors: Wenyang Hu,  Yao Shu,  Zongmin Yu,  Zhaoxuan Wu,  Xiaoqiang Lin,  Zhongxiang Dai,  See-Kiong Ng,  Bryan Kian Hsiang Low</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=vD0bP7GLHg">Fast Training Dataset Attribution via In-Context Learning</a>
+                <p>Authors: Milad fotouhi,  Mohammad Taha Bahadori,  Oluwaseyi Feyisetan,  Payman Arabshahi, David Heckerman</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=uwkYY4Y8I1">In-context learning in presence of spurious correlations</a>
+                <p>Authors: Hrayr Harutyunyan,  Rafayel Darbinyan,  Samvel Karapetyan,  Hrant Khachatrian</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=uILj5HPrag">DETAIL: Task DEmonsTration Attribution for Interpretable In-context Learning</a>
+                <p>Authors: Zijian Zhou,  Xiaoqiang Lin,  Xinyi Xu,  Alok Prakash,  Daniela Rus,  Bryan Kian Hsiang Low</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=tntVlbDdoD">TabMDA: Tabular Manifold Data Augmentation for Any Classifier using Transformers with In-context Subsetting</a>
+                <p>Authors: Andrei Margeloiu,  Adrián Bazaga,  Nikola Simidjievski,  Pietro Lio,  Mateja Jamnik</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=rfCtCcPuSt">Probing the Decision Boundaries of In-context  Learning in Large Language Models</a>
+                <p>Authors: Siyan Zhao,  Tung Nguyen,  Aditya Grover</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=mEqddgqf5w">Transformers Learn Temporal Difference Methods for In-Context  Reinforcement Learning</a>
+                <p>Authors: Jiuqi Wang,  Ethan Blaser,  Hadi Daneshmand,  Shangtong Zhang</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=j2rKwWXdcz">Many-Shot In-Context Learning in Multimodal Foundation Models</a>
+                <p>Authors: Yixing Jiang,  Jeremy Andrew Irvin,  Ji Hun Wang,  Muhammad Ahmed Chaudhry,  Jonathan H Chen,  Andrew Y. Ng</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=goi7DFHlqS">Many-shot In-Context Learning</a>
+                <p>Authors: Rishabh Agarwal,  Avi Singh,  Lei M Zhang,  Bernd Bohnet,  Luis Rosias,  Stephanie C.Y. Chan,  Biao Zhang,  Aleksandra Faust,  Hugo Larochelle</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=Zvwwnfwxa4">How In-Context Learning Emerges from Training on Unstructured Data: The Role of Co-Occurrence, Positional Information, and Noise Structures</a>
+                <p>Authors: Kevin Christian Wibisono,  Yixin Wang</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=XWRvcEaqan">Automatic Domain Adaptation by Transformers in In-Context Learning</a>
+                <p>Authors: Ryuichiro Hataya,  Kota Matsui,  Masaaki Imaizumi</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=XHP3t1AUp3">A Theoretical Understanding of Self-Correction through In-context Alignment</a>
+                <p>Authors: Yifei Wang,  Yuyang Wu,  Zeming Wei,  Stefanie Jegelka,  Yisen Wang</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=XDzS9lCfQc">Learning Fast and Slow: Representations for In-Context Weight Modulation</a>
+                <p>Authors: Andrey Zhmoginov,  Jihwan Lee,  Max Vladymyrov,  Mark Sandler</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=WjrKBQTWKp">Transformers are Minimax Optimal Nonparametric In-Context Learners</a>
+                <p>Authors: Juno Kim,  Tai Nakamaki,  Taiji Suzuki</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=TYxOXHYU6b">Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars</a>
+                <p>Authors: Zhaoxuan Wu,  Xiaoqiang Lin,  Zhongxiang Dai,  Wenyang Hu,  Yao Shu,  See-Kiong Ng,  Patrick Jaillet,  Bryan Kian Hsiang Low</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=Qf4qZgDDj6">Can Transformers Solve Least Squares to High Precision?</a>
+                <p>Authors: Jerry Weihong Liu,  Jessica Grogan,  Owen M Dugan,  Simran Arora,  Atri Rudra,  Christopher Re</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=MWV9zfgW9s">Linear Transformers are Versatile In-Context Learners</a>
+                <p>Authors: Max Vladymyrov,  Johannes Von Oswald,  Mark Sandler,  Rong Ge</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=MOgg2cEms5">Transformers Can Perform Distributionally-robust Optimisation through In-context Learning</a>
+                <p>Authors: Taeyoung Kim,  Hongseok Yang</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=M1v4y0rbFS">In-Context Generalization to New Tasks From Unlabeled Observation Data</a>
+                <p>Authors: Anthony Liang,  Pavel Czempin,  Yutai Zhou,  Stephen Tu,  Erdem Biyik</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=LjsjHF7nAN">Universal Self-Consistency for Large Language Models</a>
+                <p>Authors: Xinyun Chen,  Renat Aksitov,  Uri Alon,  Jie Ren,  Kefan Xiao,  Pengcheng Yin,  Sushant Prakash,  Charles Sutton,  Xuezhi Wang,  Denny Zhou</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=LN5X5rdlb3">Retrieval & Fine-Tuning for In-Context Tabular Models</a>
+                <p>Authors: Valentin Thomas,  Junwei Ma,  Rasa Hosseinzadeh,  Keyvan Golestan,  Guangwei Yu,  Maksims Volkovs,  Anthony L. Caterini</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=LFEzQwYSQS">Can Mamba In-Context Learn Task Mixtures?</a>
+                <p>Authors: Yingcong Li,  Xupeng Wei,  Haonan Zhao, Taigao Ma</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=JMvxJeuW8B">Learning Task Representations from In-Context Learning</a>
+                <p>Authors: Baturay Saglam,  Zhuoran Yang,  Dionysis Kalogerias,  Amin Karbasi</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=Ig9jEr8qCN">An In-Context Learning Theoretic Analysis of Chain-of-Thought</a>
+                <p>Authors: Chenxiao Yang,  Zhiyuan Li,  David Wipf</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=FraikHzMu9">Can LLMs predict the convergence of Stochastic Gradient Descent?</a>
+                <p>Authors: Oussama Zekri,  Abdelhakim Benechehab,  Ievgen Redko</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=CzcCUzJQER">Translating QA is Enough: A Key to Unlocking In-context Cross-lingual Performance</a>
+                <p>Authors: Sunkyoung Kim,  Dayeon Ki,  Yireun Kim,  Jinsik Lee</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=C60IT3ScL4">LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language</a>
+                <p>Authors: John F Bronskill,  James Requeima,  Dami Choi,  Richard E Turner,  David Duvenaud</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=ANeHJIoF54">LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law</a>
+                <p>Authors: Toni J.B. Liu,  Nicolas Boulle,  Raphaël Sarfati,  Christopher Earls</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=9QI3E2iaSD">In-Context Learning of Energy Functions</a>
+                <p>Authors: Rylan Schaeffer,  Mikail Khona,  Sanmi Koyejo</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=8Xku9fR8dR">Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment</a>
+                <p>Authors: Max Wilcoxson,  Morten Svendgård,  Ria Doshi,  Dylan Davis,  Reya Vir,  Anant Sahai</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=8KpkKsGjED">Can large language models explore in-context?</a>
+                <p>Authors: Akshay Krishnamurthy,  Keegan Harris,  Dylan J Foster,  Cyril Zhang,  Aleksandrs Slivkins</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=8Dey9wo2qA">In-Context Reinforcement Learning Without Optimal Action Labels</a>
+                <p>Authors: Juncheng Dong,  Moyang Guo,  Ethan X Fang,  Zhuoran Yang,  Vahid Tarokh</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=4SfCI1DJhr">Task Descriptors Help Transformers Learn Linear Models In-Context</a>
+                <p>Authors: Ruomin Huang,  Rong Ge</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=4FRXFBSM2A">Transformers as Stochastic Optimizers</a>
+                <p>Authors: Ryuichiro Hataya,  Masaaki Imaizumi</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=3kFfldGNwg">Verbalized Machine Learning: Revisiting Machine Learning with Language Models</a>
+                <p>Authors: Tim Z. Xiao,  Robert Bamler,  Bernhard Schölkopf,  Weiyang Liu</p>
+            </li>
+    
+            <li class="paper">
+                <a href="https://openreview.net/forum?id=1vM1a7KrC6">Fine-grained Analysis of In-context Linear Estimation</a>
+                <p>Authors: Yingcong Li,  Ankit Singh Rawat,  Samet Oymak</p>
+            </li>
+    
+        </ul>
+    </div>
+</div>
 
 <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0)">
     <h6>
