@@ -429,7 +429,7 @@ To sustain our review and program selection processes, we require <b>at least on
 <br/>
 <hr />
 
-<div class="row" id=“accepted”>
+<div class="row" id="accepted">
   <div class="col-xs-12">
     <h2>Accepted Papers</h2>
   </div>
