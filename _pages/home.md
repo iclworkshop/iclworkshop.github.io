@@ -315,15 +315,6 @@ To sustain our review and program selection processes, we require <b>at least on
   </div>
   
   <div class="col-xs-6 col-lg-4 people">
-    <a href="https://ai.stanford.edu/~tengyuma/">
-      <img class="people-pic" src="{{ "/static/img/people/tengyu_ma.jpg" | prepend:site.baseurl }}">
-    </a>
-    <div class="people-name">
-      <a href="https://ai.stanford.edu/~tengyuma/">Tengyu Ma</a>
-      <h6>Stanford University</h6>
-    </div>
-  </div>
-  <div class="col-xs-6 col-lg-4 people">
     <a href="https://scholar.google.com/citations?user=9uWgjIUAAAAJ&hl=en">
       <img class="people-pic" src="{{ "/static/img/people/yingcong_li.jpg" | prepend:site.baseurl }}">
     </a>
