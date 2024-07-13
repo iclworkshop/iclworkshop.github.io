@@ -37,7 +37,6 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 
 </div>
 
-<!--
 <div class="row" id="schedule">
   <div class="col-xs-12">
     <h2>Official schedule</h2>
@@ -56,104 +55,97 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
     <table class="table table-striped">
       <tbody>
         <tr>
-          <td>8:45 - 9:00 AM</td>
-          <td>
-            Coffee & Opening
-          </td>
-        </tr>
-        <tr>
-          <td>9:00 - 9:30 AM</td>
-          <td>
-            Invited talk:  <br/>
-            <i> X </i>
-          </td>
-        </tr>
-        <tr>
-          <td>9:30 - 9:45 AM</td>
-          <td>
-            Contributed talk:  <br/>
-            <i> X </i>
-          </td>
-        </tr>
-        <tr>
-          <td>9:45 - 10:00 AM</td>
-          <td>
-            Coffee Break <br/>
-            <i> X, Y </i>
-          </td>
-        </tr>
-        <tr>
-          <td>10:00 - 11:00 AM</td>
-          <td>
-            Poster Session
-          </td>
-        </tr>
-        <tr>
-          <td>11:00 - 11:30 AM</td>
-          <td>
-            Invited Talk: <br/>
-            <i> X </i>
-          </td>
-        </tr>
-        <tr>
-          <td>11:30 - 12:00 PM</td>
-          <td>
-            Invited Talk: <br/>
-            <i> X </i>
-          </td>
-        </tr>
-        <tr>
-          <td>12:00 - 1:30 PM</td>
-          <td>
-            Lunch Break
-          </td>
-        </tr>
-        <tr>
-          <td>1:30 - 2:00 PM</td>
-          <td>
-            Invited talk: X <br/>
-            <i> X </i>
-          </td>
-        </tr>
-        <tr>
-          <td>2:00 - 2:30 PM</td>
-          <td>
-            Invited talk: X <br/>
-            <i> X </i>
-          </td>
-        </tr>
-        <tr>
-          <td>2:30 - 2:45 PM</td>
-          <td>
-            Contributed Talk: <br/>
-            <i> X </i>
-          </td>
-        </tr>
-        <tr>
-          <td>2:45 - 3:15 PM</td>
-          <td>
-            Breakout Session
-          </td>
-        </tr>
-        <tr>
-          <td>3:15 - 3:30 PM</td>
+          <td>8:30 - 9:00 AM</td>
           <td>
             Coffee Break
           </td>
         </tr>
         <tr>
-          <td>3:30 - 4:00 PM</td>
+          <td>9:00 - 9:05 AM</td>
           <td>
-            Invited Talk: <br/>
-            <i> X </i>
+            Opening Remarks
           </td>
         </tr>
         <tr>
-          <td>4:00 - 5:00 PM</td>
-          <td> Panel Discussion </td>
+          <td>9:05 - 9:45 AM</td>
+          <td>
+            Invited Talk: <br/>
+            <i>Ekin Akyürek</i>
+          </td>
         </tr>
         <tr>
-          <td>5PM</td>
+          <td>9:45 - 10:25 AM</td>
+          <td>
+            Invited Talk: <br/>
+            <i>Stephanie Chan</i>
+          </td>
+        </tr>
+        <tr>
+          <td>10:25 - 11:15 AM</td>
+          <td>
+            Poster Session + Break <br/>
+          </td>
+        </tr>
+        <tr>
+          <td>11:15 - 11:20 AM</td>
+          <td>
+            Best Paper Ceremony <br/>
+          </td>
+        </tr>
+        <tr>
+          <td>11:20 - 11:50 AM</td>
+          <td>
+            Best Paper Presentations <br/>
+            <i>3 papers, 7+3 mins each</i>
+          </td>
+        </tr>
+        <tr>
+          <td>11:50 AM - 12:30 PM</td>
+          <td>
+            Invited Talk: <br/>
+            <i>Samuel Müller</i>
+          </td>
+        </tr>
+        <tr>
+          <td>12:30 - 2:00 PM</td>
+          <td>
+            Lunch Break
+          </td>
+        </tr>
+        <tr>
+          <td>2:00 - 2:40 PM</td>
+          <td>
+            Invited Talk: <br/>
+            <i>Mehran Kazemi</i>
+          </td>
+        </tr>
+        <tr>
+          <td>2:40 - 3:20 PM</td>
+          <td>
+            Invited Talk: <br/>
+            <i>Yingcong Li</i>
+          </td>
+        </tr>
+        <tr>
+          <td>3:20 - 4:15 PM</td>
+          <td>
+            Poster Session
+          </td>
+        </tr>
+        <tr>
+          <td>3:30 - 4:00 PM</td>
+          <td>
+            Coffee Break
+          </td>
+        </tr>
+        <tr>
+          <td>4:15 - 4:55 PM</td>
+          <td>
+            Panel Discussion <br/>
+          </td>
+        </tr>
+        <tr>
+          <td>4:55 - 5:00 PM</td>
           <td>
             Closing Remarks
           </td>
@@ -162,7 +154,6 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
     </table>
   </div>
 </div>
--->
 
 <div class="row" id="dates">
   <div class="col-xs-12">
