@@ -84,13 +84,13 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <tr>
           <td>11:15 - 11:20 AM</td>
           <td>
-            Best Paper Ceremony <br/>
+            Spotlight Awards Ceremony by QuantCo<br/>
           </td>
         </tr>
         <tr>
           <td>11:20 - 11:50 AM</td>
           <td>
-            Best Paper Presentations <br/>
+            Spotlight Paper Presentations<br/>
             <i>3 papers, 7+3 mins each</i>
           </td>
         </tr>
