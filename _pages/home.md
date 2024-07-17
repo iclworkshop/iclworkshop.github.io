@@ -71,7 +71,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <tr>
           <td>9:45 - 10:25 AM</td>
           <td>
-            Invited Talk: <br/>
+            Invited Talk "What do you need for in-context learning? Data, subcircuits, and dynamics"<br/>
             <i>Stephanie Chan</i>
           </td>
         </tr>
