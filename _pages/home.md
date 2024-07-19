@@ -39,7 +39,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
 
 <div class="row" id="schedule">
   <div class="col-xs-12">
-    <h2>schedule</h2>
+    <h2>Schedule</h2>
     <br/>
     <p> All times listed below are in Central European Summer Time (CEST).  </p>
   </div>
@@ -117,7 +117,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <tr>
           <td>2:40 - 3:20 PM</td>
           <td>
-            Invited Talk: <br/>
+            Invited Talk: "Exploring Model Expressivity and Optimization Landscape in in-context Learning"<br/>
             <i>Yingcong Li</i>
           </td>
         </tr>
