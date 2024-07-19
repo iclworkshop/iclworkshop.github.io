@@ -97,7 +97,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <tr>
           <td>11:50 AM - 12:30 PM</td>
           <td>
-            Invited Talk: <br/>
+            Invited Talk: "ICL for Bayesians & TabPFN"<br/>
             <i>Samuel Müller</i>
           </td>
         </tr>
@@ -110,7 +110,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <tr>
           <td>2:00 - 2:40 PM</td>
           <td>
-            Invited Talk: <br/>
+            Invited Talk: "In-Context Deductive Reasoning"<br/>
             <i>Mehran Kazemi</i>
           </td>
         </tr>
