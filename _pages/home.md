@@ -557,7 +557,7 @@ To sustain our review and program selection processes, we require <b>at least on
             </li>
     
             <li class="paper">
-                <a href="https://openreview.net/forum?id=CzcCUzJQER">Translating QA is Enough: A Key to Unlocking In-context Cross-lingual Performance</a>
+                <a href="https://openreview.net/forum?id=CzcCUzJQER">Cross-lingual QA: A Key to Unlocking In-context Cross-lingual Performance</a>
                 <p>Authors: Sunkyoung Kim,  Dayeon Ki,  Yireun Kim,  Jinsik Lee</p>
             </li>
     
