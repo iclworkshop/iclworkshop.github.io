@@ -88,10 +88,21 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
           </td>
         </tr>
         <tr>
-          <td>11:20 - 11:50 AM</td>
+          <td>11:20 - 11:30 AM</td>
           <td>
-            Spotlight Paper Presentations<br/>
-            <i>3 papers, 7+3 mins each</i>
+            Spotlight Paper: A Theoretical Understanding of Self-Correction through In-context Alignment </br>
+          </td>
+        </tr>
+        <tr>
+          <td>11:30 - 11:40 AM</td>
+          <td>
+            Spotlight Paper: Transformers Learn Temporal Difference Methods for In-Context Reinforcement Learning </br>
+          </td>
+        </tr>
+        <tr>
+          <td>11:40 - 11:50 AM</td>
+          <td>
+            Spotlight Paper: LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language </br>
           </td>
         </tr>
         <tr>
