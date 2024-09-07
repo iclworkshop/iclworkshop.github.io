@@ -412,12 +412,11 @@ To sustain our review and program selection processes, we require <b>at least on
     We thank the following reviewers for providing thorough and constructive feedback on 
     submissions to the workshop:
     <br />
-    <i>
-<a href="https://openreview.net/profile?id=,<a href="https://openreview.net/profile?id=~Andrei_Margeloiu1">Andrei Margeloiu,</a>
-<a href="https://openreview.net/profile?id=,<a href="https://openreview.net/profile?id=~Andrey_Zhmoginov1">Andrey Zhmoginov,</a>
-<a href="https://openreview.net/profile?id=,<a href="https://openreview.net/profile?id=~Annie_Xie1">Annie Xie,</a>
-<a href="https://openreview.net/profile?id=,<a href="https://openreview.net/profile?id=~Arvind_V._Mahankali1">Arvind Mahankali,</a>
-<a href="https://openreview.net/profile?id=,<a href="https://openreview.net/profile?id=~Bhishma_Dedhia1">Bhishma Dedhia,</a>
+<a href="https://openreview.net/profile?id=~Andrei_Margeloiu1">Andrei Margeloiu,</a>
+<a href="https://openreview.net/profile?id=~Andrey_Zhmoginov1">Andrey Zhmoginov,</a>
+<a href="https://openreview.net/profile?id=~Annie_Xie1">Annie Xie,</a>
+<a href="https://openreview.net/profile?id=~Arvind_V._Mahankali1">Arvind Mahankali,</a>
+<a href="https://openreview.net/profile?id=~Bhishma_Dedhia1">Bhishma Dedhia,</a>
 <a href="https://openreview.net/profile?id=~Chenxiao_Yang1">Chenxiao Yang,</a>
 <a href="https://openreview.net/profile?id=~Dayeon_Ki1">Dayeon Ki,</a>
 <a href="https://openreview.net/profile?id=~Dileep_George1">Dileep George,</a>
@@ -478,8 +477,7 @@ To sustain our review and program selection processes, we require <b>at least on
 <a href="https://openreview.net/profile?id=~Zhongbin_Fang1">Zhongbin Fang,</a>
 <a href="https://openreview.net/profile?id=~Zhu_Li3">Zhu Li,</a>
 <a href="https://openreview.net/profile?id=~Zijian_Zhou4">Zijian Zhou,</a>
-<a href="https://openreview.net/profile?id=~Ziyu_Wang2">Ziyu Wang</a>
-    </i>
+<a href="https://openreview.net/profile?id=~Ziyu_Wang2">Ziyu Wang</a>.
 </div>
 </div>
 <br/>
