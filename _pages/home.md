@@ -244,6 +244,7 @@ In-context learning (ICL) is an emerging capability of large-scale models, inclu
         <h3>Dual Submission Policy</h3>
         <br />
         <p>We aim to host work-in-preparation that would most benefit from feedback, which informs our dual submission policy.  We accept submissions that are <b>currently under review</b> for publication in other venues. However, as per ICML guidelines, we do not accept works <b>accepted for publication</b> in another archival venue as of the date of the workshop deadline. A work accepted at ICML 2024 or KDD 2024 can thus <b>not</b> be submitted to the workshop, but a paper under review at NeurIPS 2024 would be eligible.</p>
+
 <!--
         <h3>Review Process</h3>
         <br />
@@ -376,7 +377,6 @@ To sustain our review and program selection processes, we require <b>at least on
     </div>
   </div>
 
-
   <div class="col-xs-6 col-lg-4 people">
     <a href="https://juliensiems.github.io">
       <img class="people-pic" src="{{ "/static/img/people/julien_siems.jpg" | prepend:site.baseurl }}">
@@ -401,20 +401,85 @@ To sustain our review and program selection processes, we require <b>at least on
 <br/>
 <hr />
 
-<div class="row" id="sponsors">
+<div class="row" id="reviewers">
   <div class="col-xs-12">
-    <h2>Sponsors</h2>
+    <h2>Reviewers</h2>
   </div>
 </div>
 <div class="row">
   <div class="col-xs-12">
     <br />
-    We thank <a href="https://www.quantco.com/">QuantCo</a> for their generous support for this workshop!
-    <div class="col-xs-6 col-lg-12 people">
-    <a href="https://www.quantco.com/">
-      <img class="people-pic" src="{{ "/static/img/quantco.jpeg" | prepend:site.baseurl }}">
-    </a>
-  </div>
+    We thank the following reviewers for providing thorough and constructive feedback on 
+    submissions to the workshop:
+    <br />
+    <i>
+<a href="https://openreview.net/profile?id=,<a href="https://openreview.net/profile?id=~Andrei_Margeloiu1">Andrei Margeloiu,</a>
+<a href="https://openreview.net/profile?id=,<a href="https://openreview.net/profile?id=~Andrey_Zhmoginov1">Andrey Zhmoginov,</a>
+<a href="https://openreview.net/profile?id=,<a href="https://openreview.net/profile?id=~Annie_Xie1">Annie Xie,</a>
+<a href="https://openreview.net/profile?id=,<a href="https://openreview.net/profile?id=~Arvind_V._Mahankali1">Arvind Mahankali,</a>
+<a href="https://openreview.net/profile?id=,<a href="https://openreview.net/profile?id=~Bhishma_Dedhia1">Bhishma Dedhia,</a>
+<a href="https://openreview.net/profile?id=~Chenxiao_Yang1">Chenxiao Yang,</a>
+<a href="https://openreview.net/profile?id=~Dayeon_Ki1">Dayeon Ki,</a>
+<a href="https://openreview.net/profile?id=~Dileep_George1">Dileep George,</a>
+<a href="https://openreview.net/profile?id=~Eric_J_Bigelow1">Eric Bigelow,</a>
+<a href="https://openreview.net/profile?id=~Eric_Todd1">Eric Todd,</a>
+<a href="https://openreview.net/profile?id=~Ethan_H_Blaser1">Ethan Blaser,</a>
+<a href="https://openreview.net/profile?id=~Hao_Zhao3">Hao Zhao,</a>
+<a href="https://openreview.net/profile?id=~Haozhe_Zhao1">Haozhe Zhao,</a>
+<a href="https://openreview.net/profile?id=~Herilalaina_Rakotoarison1">Herilalaina Rakotoarison,</a>
+<a href="https://openreview.net/profile?id=~Hrayr_Harutyunyan1">Hrayr Harutyunyan,</a>
+<a href="https://openreview.net/profile?id=~Jerry_Weng_Wei1">Jerry Wei,</a>
+<a href="https://openreview.net/profile?id=~Jerry_Weihong_Liu1">Jerry Weihong Liu,</a>
+<a href="https://openreview.net/profile?id=~Johannes_Von_Oswald1">Johannes Von Oswald,</a>
+<a href="https://openreview.net/profile?id=~John_F_Bronskill1">John Bronskill,</a>
+<a href="https://openreview.net/profile?id=~Jun_Seo1">Jun Seo,</a>
+<a href="https://openreview.net/profile?id=~Junwei_Ma1">Junwei Ma,</a>
+<a href="https://openreview.net/profile?id=~Keegan_Harris1">Keegan Harris,</a>
+<a href="https://openreview.net/profile?id=~Kevin_Christian_Wibisono1">Kevin Christian Wibisono,</a>
+<a href="https://openreview.net/profile?id=~Tobias_Lee1">Lei Li,</a>
+<a href="https://openreview.net/profile?id=~Lennart_Oswald_Purucker1">Lennart Purucker,</a>
+<a href="https://openreview.net/profile?id=~Liu_Yang6">Liu Yang,</a>
+<a href="https://openreview.net/profile?id=~Louis_Kirsch1">Louis Kirsch,</a>
+<a href="https://openreview.net/profile?id=~Man_Luo2">Man Luo,</a>
+<a href="https://openreview.net/profile?id=~Max_Vladymyrov1">Max Vladymyrov,</a>
+<a href="https://openreview.net/profile?id=~Mohammadreza_Pourreza1">Mohammadreza Pourreza,</a>
+<a href="https://openreview.net/profile?id=~Mustafa_Shukor1">Mustafa Shukor,</a>
+<a href="https://openreview.net/profile?id=~Nan_Jiang11">Nan Jiang,</a>
+<a href="https://openreview.net/profile?id=~Oussama_Zekri1">Oussama Zekri,</a>
+<a href="https://openreview.net/profile?id=~Pavel_Czempin1">Pavel Czempin,</a>
+<a href="https://openreview.net/profile?id=~Pengwei_Li1">Pengwei Li,</a>
+<a href="https://openreview.net/profile?id=~Renat_Aksitov1">Renat Aksitov,</a>
+<a href="https://openreview.net/profile?id=~Riccardo_Grazzi1">Riccardo Grazzi,</a>
+<a href="https://openreview.net/profile?id=~Ruiqi_Zhang2">Ruiqi Zhang,</a>
+<a href="https://openreview.net/profile?id=~Ruixin_Yang1">Ruixin Yang,</a>
+<a href="https://openreview.net/profile?id=~Ruomin_Huang1">Ruomin Huang,</a>
+<a href="https://openreview.net/profile?id=~Rylan_Schaeffer2">Rylan Schaeffer,</a>
+<a href="https://openreview.net/profile?id=~Sadhika_Malladi2">Sadhika Malladi,</a>
+<a href="https://openreview.net/profile?id=~Samuel_Müller1">Samuel Müller,</a>
+<a href="https://openreview.net/profile?id=~Sharut_Gupta1">Sharut Gupta,</a>
+<a href="https://openreview.net/profile?id=~Simon_Schrodi1">Simon Schrodi,</a>
+<a href="https://openreview.net/profile?id=~Sivaramakrishnan_Swaminathan1">Sivaramakrishnan Swaminathan,</a>
+<a href="https://openreview.net/profile?id=~Stephanie_C.Y._Chan1">Stephanie Chan,</a>
+<a href="https://openreview.net/profile?id=~Sunita_Sarawagi1">Sunita Sarawagi,</a>
+<a href="https://openreview.net/profile?id=~Taeyoung_Kim2">Taeyoung Kim,</a>
+<a href="https://openreview.net/profile?id=~Tian_Jin1">Tian Jin,</a>
+<a href="https://openreview.net/profile?id=~Ting-Yun_Chang1">Ting-Yun Chang,</a>
+<a href="https://openreview.net/profile?id=~Tong_Wu1">Tong Wu,</a>
+<a href="https://openreview.net/profile?id=~Toni_J.B._Liu1">Toni Liu,</a>
+<a href="https://openreview.net/profile?id=~Weiyang_Liu1">Weiyang Liu,</a>
+<a href="https://openreview.net/profile?id=~Wenyang_Hu1">Wenyang Hu,</a>
+<a href="https://openreview.net/profile?id=~Xinyi_Wang2">Xinyi Wang,</a>
+<a href="https://openreview.net/profile?id=~Xinyi_Wu2">Xinyi Wu,</a>
+<a href="https://openreview.net/profile?id=~Yingcong_Li1">Yingcong Li,</a>
+<a href="https://openreview.net/profile?id=~Yixing_Jiang2">Yixing Jiang,</a>
+<a href="https://openreview.net/profile?id=~Zefan_Cai1">Zefan Cai,</a>
+<a href="https://openreview.net/profile?id=~Zeming_Wei1">Zeming Wei,</a>
+<a href="https://openreview.net/profile?id=~Zhendong_Chu1">Zhendong Chu,</a>
+<a href="https://openreview.net/profile?id=~Zhongbin_Fang1">Zhongbin Fang,</a>
+<a href="https://openreview.net/profile?id=~Zhu_Li3">Zhu Li,</a>
+<a href="https://openreview.net/profile?id=~Zijian_Zhou4">Zijian Zhou,</a>
+<a href="https://openreview.net/profile?id=~Ziyu_Wang2">Ziyu Wang</a>
+    </i>
 </div>
 </div>
 <br/>
@@ -434,201 +499,222 @@ To sustain our review and program selection processes, we require <b>at least on
                 <a href="https://openreview.net/forum?id=zGyPLns0v7">Improve Temporal Awareness of LLMs for Domain-general Sequential Recommendation</a>
                 <p>Authors: Zhendong Chu,  Zichao Wang,  Ruiyi Zhang,  Yangfeng Ji,  Hongning Wang,  Tong Sun</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=yV6acl90Fq">In-Context Principle Learning from Mistakes</a>
                 <p>Authors: Tianjun Zhang,  Aman Madaan,  Luyu Gao,  Steven Zhang,  Swaroop Mishra,  Yiming Yang,  Niket Tandon,  Uri Alon</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=y0PQVjMbRf">In-Context Symmetries: Self-Supervised Learning through Contextual World Models</a>
                 <p>Authors: Sharut Gupta,  Chenyu Wang,  Yifei Wang,  Tommi S. Jaakkola,  Stefanie Jegelka</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=xTfvKvVmAM">Localized Zeroth-Order Prompt Optimization</a>
                 <p>Authors: Wenyang Hu,  Yao Shu,  Zongmin Yu,  Zhaoxuan Wu,  Xiaoqiang Lin,  Zhongxiang Dai,  See-Kiong Ng,  Bryan Kian Hsiang Low</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=vD0bP7GLHg">Fast Training Dataset Attribution via In-Context Learning</a>
                 <p>Authors: Milad fotouhi,  Mohammad Taha Bahadori,  Oluwaseyi Feyisetan,  Payman Arabshahi, David Heckerman</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=uwkYY4Y8I1">In-context learning in presence of spurious correlations</a>
                 <p>Authors: Hrayr Harutyunyan,  Rafayel Darbinyan,  Samvel Karapetyan,  Hrant Khachatrian</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=uILj5HPrag">DETAIL: Task DEmonsTration Attribution for Interpretable In-context Learning</a>
                 <p>Authors: Zijian Zhou,  Xiaoqiang Lin,  Xinyi Xu,  Alok Prakash,  Daniela Rus,  Bryan Kian Hsiang Low</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=tntVlbDdoD">TabMDA: Tabular Manifold Data Augmentation for Any Classifier using Transformers with In-context Subsetting</a>
                 <p>Authors: Andrei Margeloiu,  Adrián Bazaga,  Nikola Simidjievski,  Pietro Lio,  Mateja Jamnik</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=rfCtCcPuSt">Probing the Decision Boundaries of In-context  Learning in Large Language Models</a>
                 <p>Authors: Siyan Zhao,  Tung Nguyen,  Aditya Grover</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=mEqddgqf5w">Transformers Learn Temporal Difference Methods for In-Context  Reinforcement Learning</a>
                 <p>Authors: Jiuqi Wang,  Ethan Blaser,  Hadi Daneshmand,  Shangtong Zhang</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=j2rKwWXdcz">Many-Shot In-Context Learning in Multimodal Foundation Models</a>
                 <p>Authors: Yixing Jiang,  Jeremy Andrew Irvin,  Ji Hun Wang,  Muhammad Ahmed Chaudhry,  Jonathan H Chen,  Andrew Y. Ng</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=goi7DFHlqS">Many-shot In-Context Learning</a>
                 <p>Authors: Rishabh Agarwal,  Avi Singh,  Lei M Zhang,  Bernd Bohnet,  Luis Rosias,  Stephanie C.Y. Chan,  Biao Zhang,  Aleksandra Faust,  Hugo Larochelle</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=Zvwwnfwxa4">How In-Context Learning Emerges from Training on Unstructured Data: The Role of Co-Occurrence, Positional Information, and Noise Structures</a>
                 <p>Authors: Kevin Christian Wibisono,  Yixin Wang</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=XWRvcEaqan">Automatic Domain Adaptation by Transformers in In-Context Learning</a>
                 <p>Authors: Ryuichiro Hataya,  Kota Matsui,  Masaaki Imaizumi</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=XHP3t1AUp3">A Theoretical Understanding of Self-Correction through In-context Alignment</a>
                 <p>Authors: Yifei Wang,  Yuyang Wu,  Zeming Wei,  Stefanie Jegelka,  Yisen Wang</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=XDzS9lCfQc">Learning Fast and Slow: Representations for In-Context Weight Modulation</a>
                 <p>Authors: Andrey Zhmoginov,  Jihwan Lee,  Max Vladymyrov,  Mark Sandler</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=WjrKBQTWKp">Transformers are Minimax Optimal Nonparametric In-Context Learners</a>
                 <p>Authors: Juno Kim,  Tai Nakamaki,  Taiji Suzuki</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=TYxOXHYU6b">Prompt Optimization with EASE? Efficient Ordering-aware Automated Selection of Exemplars</a>
                 <p>Authors: Zhaoxuan Wu,  Xiaoqiang Lin,  Zhongxiang Dai,  Wenyang Hu,  Yao Shu,  See-Kiong Ng,  Patrick Jaillet,  Bryan Kian Hsiang Low</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=Qf4qZgDDj6">Can Transformers Solve Least Squares to High Precision?</a>
                 <p>Authors: Jerry Weihong Liu,  Jessica Grogan,  Owen M Dugan,  Simran Arora,  Atri Rudra,  Christopher Re</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=MWV9zfgW9s">Linear Transformers are Versatile In-Context Learners</a>
                 <p>Authors: Max Vladymyrov,  Johannes Von Oswald,  Mark Sandler,  Rong Ge</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=MOgg2cEms5">Transformers Can Perform Distributionally-robust Optimisation through In-context Learning</a>
                 <p>Authors: Taeyoung Kim,  Hongseok Yang</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=M1v4y0rbFS">In-Context Generalization to New Tasks From Unlabeled Observation Data</a>
                 <p>Authors: Anthony Liang,  Pavel Czempin,  Yutai Zhou,  Stephen Tu,  Erdem Biyik</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=LjsjHF7nAN">Universal Self-Consistency for Large Language Models</a>
                 <p>Authors: Xinyun Chen,  Renat Aksitov,  Uri Alon,  Jie Ren,  Kefan Xiao,  Pengcheng Yin,  Sushant Prakash,  Charles Sutton,  Xuezhi Wang,  Denny Zhou</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=LN5X5rdlb3">Retrieval & Fine-Tuning for In-Context Tabular Models</a>
                 <p>Authors: Valentin Thomas,  Junwei Ma,  Rasa Hosseinzadeh,  Keyvan Golestan,  Guangwei Yu,  Maksims Volkovs,  Anthony L. Caterini</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=LFEzQwYSQS">Can Mamba In-Context Learn Task Mixtures?</a>
                 <p>Authors: Yingcong Li,  Xupeng Wei,  Haonan Zhao, Taigao Ma</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=JMvxJeuW8B">Learning Task Representations from In-Context Learning</a>
                 <p>Authors: Baturay Saglam,  Zhuoran Yang,  Dionysis Kalogerias,  Amin Karbasi</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=Ig9jEr8qCN">An In-Context Learning Theoretic Analysis of Chain-of-Thought</a>
                 <p>Authors: Chenxiao Yang,  Zhiyuan Li,  David Wipf</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=FraikHzMu9">Can LLMs predict the convergence of Stochastic Gradient Descent?</a>
                 <p>Authors: Oussama Zekri,  Abdelhakim Benechehab,  Ievgen Redko</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=CzcCUzJQER">Cross-lingual QA: A Key to Unlocking In-context Cross-lingual Performance</a>
                 <p>Authors: Sunkyoung Kim,  Dayeon Ki,  Yireun Kim,  Jinsik Lee</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=C60IT3ScL4">LLM Processes: Numerical Predictive Distributions Conditioned on Natural Language</a>
                 <p>Authors: John F Bronskill,  James Requeima,  Dami Choi,  Richard E Turner,  David Duvenaud</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=ANeHJIoF54">LLMs learn governing principles of dynamical systems, revealing an in-context neural scaling law</a>
                 <p>Authors: Toni J.B. Liu,  Nicolas Boulle,  Raphaël Sarfati,  Christopher Earls</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=9QI3E2iaSD">In-Context Learning of Energy Functions</a>
                 <p>Authors: Rylan Schaeffer,  Mikail Khona,  Sanmi Koyejo</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=8Xku9fR8dR">Polynomial Regression as a Task for Understanding In-context Learning Through Finetuning and Alignment</a>
                 <p>Authors: Max Wilcoxson,  Morten Svendgård,  Ria Doshi,  Dylan Davis,  Reya Vir,  Anant Sahai</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=8KpkKsGjED">Can large language models explore in-context?</a>
                 <p>Authors: Akshay Krishnamurthy,  Keegan Harris,  Dylan J Foster,  Cyril Zhang,  Aleksandrs Slivkins</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=8Dey9wo2qA">In-Context Reinforcement Learning Without Optimal Action Labels</a>
                 <p>Authors: Juncheng Dong,  Moyang Guo,  Ethan X Fang,  Zhuoran Yang,  Vahid Tarokh</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=4SfCI1DJhr">Task Descriptors Help Transformers Learn Linear Models In-Context</a>
                 <p>Authors: Ruomin Huang,  Rong Ge</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=4FRXFBSM2A">Transformers as Stochastic Optimizers</a>
                 <p>Authors: Ryuichiro Hataya,  Masaaki Imaizumi</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=3kFfldGNwg">Verbalized Machine Learning: Revisiting Machine Learning with Language Models</a>
                 <p>Authors: Tim Z. Xiao,  Robert Bamler,  Bernhard Schölkopf,  Weiyang Liu</p>
             </li>
-    
+
             <li class="paper">
                 <a href="https://openreview.net/forum?id=1vM1a7KrC6">Fine-grained Analysis of In-context Linear Estimation</a>
                 <p>Authors: Yingcong Li,  Ankit Singh Rawat,  Samet Oymak</p>
             </li>
-    
+
         </ul>
     </div>
+
 </div>
 
+<br/>
+<br/>
+<hr />
+
+<div class="row" id="sponsors">
+  <div class="col-xs-12">
+    <h2>Sponsors</h2>
+  </div>
+</div>
+<div class="row">
+  <div class="col-xs-12">
+    <br />
+    We thank <a href="https://www.quantco.com/">QuantCo</a> for their generous support for this workshop!
+    <div class="col-xs-6 col-lg-12 people">
+    <a href="https://www.quantco.com/">
+      <img class="people-pic" src="{{ "/static/img/quantco.jpeg" | prepend:site.baseurl }}">
+    </a>
+  </div>
+</div>
+</div>
 <br/>
 <br/>
 <hr />
