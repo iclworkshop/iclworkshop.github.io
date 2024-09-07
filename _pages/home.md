@@ -18,7 +18,8 @@ acknowledgements: ""
 In-context learning (ICL) is an emerging capability of large-scale models, including large language models (LLMs) like GPT-3, to acquire new capabilities directly from the context of an input example without separate training or fine-tuning, enabling these models to adapt rapidly to new tasks, datasets, and domains. This workshop brings together diverse perspectives on this new paradigm to assess progress, synthesize best practices, and chart open problems. Core topics will include architectural and other inductive biases enabling in-context skill acquisition, and reliable evaluation of ICL in application domains including reinforcement learning, representation learning, and safe and reliable machine learning.
 </p>
     <p>
-    <b>The workshop will take place on Saturday, July 27th, 2024 at Room Lehar 4, Messe Wien Exhibition Congress Center, Vienna.</b>
+    The workshop took place on Saturday, July 27th, 2024 at Room Lehar 4, Messe Wien Exhibition Congress Center, Vienna.
+    <b>Video recordings from the workshop day are now available on <a href="https://icml.cc/virtual/2024/workshop/29966">the ICML.cc site!</a></b>
     </p>
     <p>
       In case of any issues or questions, feel free to email the organizers at <a href="mailto:iclworkshop@googlegroups.com" class="red">iclworkshop@googlegroups.com</a>.
